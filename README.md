@@ -106,7 +106,6 @@ Contributions, issues and feature requests are welcome!
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Open a Pull Request
 
-
 - GitHub: [@akashnpatil2005](https://github.com/akashnpatil2005)
 
 
